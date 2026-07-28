@@ -12,17 +12,17 @@ redirect_from:
 💼Current Positions
 ======
 
-- **2025.01 ~ Present, Postdoctoral Researcher, Department of Building Engineering, Tongji University**
-- **2025.10 ~ Present, Joint Postdoctoral Researcher, Department of Civil Engineering, University of Victoria**
+- **2025.01 ~ Present - Postdoctoral Researcher, Department of Building Engineering, Tongji University**
+- **2025.10 ~ Present - Joint Postdoctoral Researcher, Department of Civil Engineering, University of Victoria**
 
 🎓Education
 ======
 
-- **2021.10 ~ 2024.11, Ph.D. in Structural Engineering, Nagoya University, Japan**
-- **2024.03 ~ 2024.03, Visiting Ph.D. Researcher, University of Utah, United States**
-- **2019.10 ~ 2021.09, Master, Kyushu Institute of Technology, Kitakyushu, Japan**
-- **2018.04 ~ 2019.03, Exchange, Kyushu Institute of Technology, Kitakyushu, Japan**
-- **2015.09 ~ 2019.07, Bachelor, Henan University of Technology, Luoyang, China**
+- **2021.10 ~ 2024.11 - Ph.D. in Structural Engineering, Nagoya University, Japan**
+- **2024.03 ~ 2024.03 - Visiting Ph.D. Researcher, University of Utah, United States**
+- **2019.10 ~ 2021.09 - Master, Kyushu Institute of Technology, Kitakyushu, Japan**
+- **2018.04 ~ 2019.03 - Exchange, Kyushu Institute of Technology, Kitakyushu, Japan**
+- **2015.09 ~ 2019.07 - Bachelor, Henan University of Technology, Luoyang, China**
 
 🔬Research Profile
 ======
@@ -32,12 +32,12 @@ My work focuses on the seismic behavior and resilience of steel structures, stee
 📊Research Output
 ======
 
-- **54** academic publications over the past five years
+- Total**54** academic publications
 - **20** SCI-indexed journal papers
-- **13** journal papers as first author or corresponding author
 - **2** EI-indexed journal papers
 - **10** international conference papers
 - **22** papers presented at Architectural Institute of Japan meetings
+- **13** journal papers as first author or corresponding author
 - Contributor to the CECS technical specification for rectangular CFST structures
 
 🏅Honors & Awards
@@ -57,4 +57,12 @@ My work focuses on the seismic behavior and resilience of steel structures, stee
 - 2017.10 - National Encouragement Scholarship, Henan Provincial Department of Education, China
 - 2016.10 - National Encouragement Scholarship, Henan Provincial Department of Education, China
 
+🤝Academic and Professional Service
+======
+
+- 2021.10 ~ 2024.09 - Next-Generation Research Fellow, Tokai National Higher Education and Research System,
+- 2022.08 ~ 2024.11 - Technical Assistant, Disaster Mitigation Research Center, Nagoya University
+- 2022.04 ~ 2024.09 - Academic Affairs Assistant, Graduate School of Environmental Studies, Nagoya University
+- 2019 ~ present - Member, Architectural Institute of Japan, 
+- Reviewer for *Engineering Structures*, *Journal of Building Engineering*, *Journal of Constructional Steel Research*, *Scientific Reports*, *Buildings*, *Applied Sciences*, *Advances in Civil Engineering*, and *Iranian Journal of Science and Technology, Transactions of Civil Engineering*
 
