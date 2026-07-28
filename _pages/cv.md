@@ -63,6 +63,6 @@ My work focuses on the seismic behavior and resilience of steel structures, stee
 - 2021.10 ~ 2024.09 - Next-Generation Research Fellow, Tokai National Higher Education and Research System,
 - 2022.08 ~ 2024.11 - Technical Assistant, Disaster Mitigation Research Center, Nagoya University
 - 2022.04 ~ 2024.09 - Academic Affairs Assistant, Graduate School of Environmental Studies, Nagoya University
-- 2019 ~ present - Member, Architectural Institute of Japan, 
+- 2019 ~ Present - Member, Architectural Institute of Japan, 
 - Reviewer for *Engineering Structures*, *Journal of Building Engineering*, *Journal of Constructional Steel Research*, *Scientific Reports*, *Buildings*, *Applied Sciences*, *Advances in Civil Engineering*, and *Iranian Journal of Science and Technology, Transactions of Civil Engineering*
 
