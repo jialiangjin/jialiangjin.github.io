@@ -12,17 +12,17 @@ redirect_from:
 💼Current Positions
 ======
 
-- 2025.01 ~ Present, Postdoctoral Researcher, Department of Building Engineering, Tongji University
-- 2025.10 ~ Present, Joint Postdoctoral Researcher, Department of Civil Engineering, University of Victoria
+- **2025.01 ~ Present, Postdoctoral Researcher, Department of Building Engineering, Tongji University**
+- **2025.10 ~ Present, Joint Postdoctoral Researcher, Department of Civil Engineering, University of Victoria**
 
 🎓Education
 ======
 
-- 2021.10 ~ 2024.11, Ph.D. in Structural Engineering, Nagoya University, Japan
-- 2024.03 ~ 2024.03, Visiting Ph.D. Researcher, University of Utah, United States
-- 2019.10 ~ 2021.09, Master, Kyushu Institute of Technology, Kitakyushu, Japan
-- 2018.04 ~ 2019.03, Exchange, Kyushu Institute of Technology, Kitakyushu, Japan
-- 2015.09 ~ 2019.07, Bachelor, Henan University of Technology, Luoyang, China
+- **2021.10 ~ 2024.11, Ph.D. in Structural Engineering, Nagoya University, Japan**
+- **2024.03 ~ 2024.03, Visiting Ph.D. Researcher, University of Utah, United States**
+- **2019.10 ~ 2021.09, Master, Kyushu Institute of Technology, Kitakyushu, Japan**
+- **2018.04 ~ 2019.03, Exchange, Kyushu Institute of Technology, Kitakyushu, Japan**
+- **2015.09 ~ 2019.07, Bachelor, Henan University of Technology, Luoyang, China**
 
 🔬Research Profile
 ======
