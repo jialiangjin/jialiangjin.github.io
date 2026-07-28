@@ -37,7 +37,7 @@ author_profile: true
 25. **J. Jin**, W. Wang\*, M. Sun, H. Xu, and W. Jiao. "Effect of local thickness enhancement on seismic performance of special-shaped steel beam-to-square CFST column joints with inclined internal diaphragms." *Structures* (2026). (Under Review)
 26. **J. Jin**, W. Wang\*, M. Sun, Hui Zhou, and W. Jiao. "Seismic behavior and design of irregular steel beam-to-square CFST column joints with improved concrete-anchored slip-critical blind bolts." *Engineering Structures* (2026). (Under Review)
 27. **J. Jin**, W. Wang, M. Sun\*, and W. Jiao. "Seismic performance and design method of square hollow section column-to-beam connections with slip-critical blind bolts." *Thin-Walled Structures* (2026). (Under Review)
-28. Z. Wang, W. Cheng, and **J. Jin**\*. "Axial compressive behavior and load-sharing mechanism of hybrid fiber-reinforced concrete confined composite columns: Experimental and numerical investigation." *Journal of Building Engineering* (2026). (Under Review)
+28. Z. Wang, W. Cheng, and **J. Jin**\*. "Axial compressive behavior and load-sharing mechanism of hybrid fiber-reinforced concrete confined composite columns: Experimental and numerical investigation." *Structures* (2026). (Under Review)
 29. **J. Jin**, Y. Chen, S. Wang\*, and T. Yan. "Seismic performance and retrofitting of existing unequal-depth steel beam-to-HSS column connections." *Structures* (2026). (Under Review)
 30. T. Yan\*, T. Nagae, T. Okazaki, M. Somarriba, **J. Jin**, and J. Li. "Frame action on collapse resistance observed in shake-table tests of a scaled 4-story steel moment-resisting frame." *Journal of Building Engineering* (2026). (Under Review)
 
