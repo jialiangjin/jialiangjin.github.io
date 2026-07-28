@@ -9,13 +9,13 @@ redirect_from:
 
 [Download my full CV (PDF)](/files/Jialiang_Jin_CV_2026.pdf){: .btn .btn--primary}
 
-Current Positions
+💼Current Positions
 ======
 
 - 2025.01 ~ Present, Postdoctoral Researcher, Department of Building Engineering, Tongji University
 - 2025.10 ~ Present, Joint Postdoctoral Researcher, Department of Civil Engineering, University of Victoria
 
-Education
+🎓Education
 ======
 
 - 2021.10 ~ 2024.11, Ph.D. in Structural Engineering, Nagoya University, Japan
@@ -24,23 +24,23 @@ Education
 - 2018.04 ~ 2019.03, Exchange, Kyushu Institute of Technology, Kitakyushu, Japan
 - 2015.09 ~ 2019.07, Bachelor, Henan University of Technology, Luoyang, China
 
-Research Profile
+🔬Research Profile
 ======
 
 My work focuses on the seismic behavior and resilience of steel structures, steel-concrete composite structures, and steel frame-curtain wall systems. I combine large-scale structural testing, refined numerical simulation, theoretical modeling, and design-method development.
 
-Research Output
+📊Research Output
 ======
 
-- 54 academic publications over the past five years
-- 20 SCI-indexed journal papers
-- 13 journal papers as first author or corresponding author
-- 2 EI-indexed journal papers
-- 10 international conference papers
-- 22 papers presented at Architectural Institute of Japan meetings
+- **54** academic publications over the past five years
+- **20** SCI-indexed journal papers
+- **13** journal papers as first author or corresponding author
+- **2** EI-indexed journal papers
+- **10** international conference papers
+- **22** papers presented at Architectural Institute of Japan meetings
 - Contributor to the CECS technical specification for rectangular CFST structures
 
-Honors & Awards
+🏅Honors & Awards
 ======
 
 - 2025.12 - **National Postdoctoral Program for Overseas Talents, Ministry of Education, China**
