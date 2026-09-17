@@ -8,23 +8,37 @@ author_profile: true
 🎯Principal Investigator   
 ======
 
+2027.01 ~ 2029.12 - **Young Scientists Fund (Category C)**  
+National Natural Science Foundation of China, China (52608325).
+
+2026.08 ~ 2028.08 - **Open Fund of the National Center for Earthquake Engineering Science**  
+Tianjin University, China (2026KFB4004).
+
 2025.12 ~ 2027.11 - **Shanghai Magnolia Talent Program – Pujiang Project (Category A)**  
 Shanghai Science and Technology Commission, China (25PJA145).
 
 2025.01 ~ 2027.12 - **Postdoctoral research program for researchers trained overseas**  
 Ministry of Education, China.
 
+2025.01 ~ 2026.12 - **Shanghai Postdoctoral Overseas Talent Introduction Program**  
+Shanghai Municipal Human Resources and Social Security Bureau, China.
+
 2025.01 ~ 2026.12 - **Nationally Funded Postdoctoral Researcher Program (Tier C)**  
-China Postdoctoral Science Foundation (GZC20252127).
+China Postdoctoral Science Foundation, China (GZC20252127).
 
 2025.01 ~ 2026.12 - **Shanghai Super Postdoctoral Incentive Program**  
-Shanghai Municipal Human Resources and Social Security Bureau (2025826).
+Shanghai Municipal Human Resources and Social Security Bureau, China (2025826).
 
 2021.10 ~ 2024.09 - **JST Support for Pioneering Research Initiated by the Next Generation (JST SPRING)**  
-Japan Science and Technology Agency (JPMJSP2125).
+Japan Science and Technology Agency, Japan (JPMJSP2125).
 
 🤝Collaborative Projects
 ======
+2027.01 ~ 2030.12 - **General Program, National Natural Science Foundation of China**
+First-Ranked Participant
+
+2025.10 ~ 2027.09 - **Open Research Fund of the National Center for Earthquake Engineering, Tianjin University**  
+Second-Ranked Participant
 
 2022.10 ~ Present - **International joint research on the seismic performance of full-scale steel buildings**
 Japan Society for the Promotion of Science (JSPS)
@@ -34,13 +48,10 @@ Core research member responsible for test instrumentation, data acquisition/proc
 Japan Society for the Promotion of Science (JSPS)
 Core research member involved in instrumentation, data acquisition/processing, and numerical analysis for a large-scale four-story steel frame shake-table collapse test.
 
-2025.10 ~ 2027.09 - **Open Research Fund of the National Center for Earthquake Engineering, Tianjin University**  
-Core research member and third contributor.
-
 2025.01 ~ Present - **Industry-university collaborative research on innovative CFST structures and connections**  
 Major research contributor.
 
-🏗️Selected Large-Scale Experimental Programs
+🏗️Experience in large-Scale Experimental Programs
 ======
 
 - Full-scale 10-story steel building tested on the E-Defense three-dimensional shake table
