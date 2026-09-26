@@ -32,12 +32,12 @@ My work focuses on the seismic behavior and resilience of steel structures, stee
 📊Research Output
 ======
 
-- Total**54** academic publications
-- **20** SCI-indexed journal papers
+- Total**58** academic publications
+- **24** SCI-indexed journal papers
 - **2** EI-indexed journal papers
 - **10** international conference papers
 - **22** papers presented at Architectural Institute of Japan meetings
-- **13** journal papers as first author or corresponding author
+- **16** journal papers as first author or corresponding author
 - Contributor to the CECS technical specification for rectangular CFST structures
 
 🏅Honors & Awards
